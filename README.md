@@ -1,4 +1,4 @@
-## Secret Pages!
+## Secret Websites!
 _____________________________________________________
 This site is for secret, not blocked websites I found.
  
