@@ -29,6 +29,4 @@ and I will try and tell you the answer.
  
 ### Have a site you want on here so no one else has it but me and you?
 ______________________________________________________________________ 
-Tell me on a privite google doc or chatting thing and input the site there.
-I won't tell no one about the site you give me.
- 
+Tell me on a privite google doc or chatting thing and input the site there. 
