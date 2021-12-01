@@ -9,7 +9,7 @@ Theses games were pretty hard to find and get, so please don't get these blocked
  
 Below here is the not blocked sites I found that are still up. If you give these sites away without me knowing, you will be **BANNED** from this site till then.
  
-```markdown
+```
 Not Blocked Sites
 - https://www.snonisroom.xyz/ 
  
