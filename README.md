@@ -12,7 +12,7 @@ Below here is the not blocked sites I found that are still up. If you give these
 ______________________________________________________________________________________________________________________________________________________________
 Not Blocked Sites
 
-- https://www.snonisroom.xyz/
+- [https://www.snonisroom.xyz/](https://www.snonisroom.xyz/)
  
  
  
