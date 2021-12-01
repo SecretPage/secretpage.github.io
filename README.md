@@ -2,8 +2,8 @@
 _____________________________________________________
 This site is for secret, not blocked websites I found.
  
-_____________________________________________________
-Theses games were pretty hard to find and get, so please don't get these blocked.
+ 
+Theses sites were pretty hard to find and get, so don't get these blocked.
  
 ### Read this carefully!
 ______________________________________________________________________________________________________________________________________________________________
