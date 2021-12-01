@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Secret Pages!
 
-You can use the [editor on GitHub](https://github.com/SecretPage/secretpage.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site is for secret, not blocked websites I found.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Theses games were pretty hard to find and get, so please don't get these blocked.
 
-### Markdown
+### Read this carefully!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below here is the not blocked sites I found that are still up. If you give these sites away without me knowing, you will be **BANNED** from this site till then.
 
 ```markdown
-Syntax highlighted code block
+Not Blocked Sites
+- (https://www.snonisroom.xyz/)
+- 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SecretPage/secretpage.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Questions?
 
-### Support or Contact
+Go to this [google form](https://forms.gle/bcRLEAUMo77u4beP9) and type out you questions and I will try and tell you the answer.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Have a site you want on here so no one else has it but me and you?
+
+Tell me on a privite google doc or chatting thing and input the site there.
