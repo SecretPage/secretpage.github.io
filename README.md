@@ -7,7 +7,7 @@ Theses sites were pretty hard to find and get, so don't get these blocked.
  
 ### Read this carefully!
 ______________________________________________________________________________________________________________________________________________________________
-Below here is the not blocked sites I found that are still up. If you give these sites away without me knowing, you will be **BANNED** from this site till then.
+Below here is the not blocked sites I found that are still up. If you give these sites away without me knowing, you will be **BANNED** from this site till futher notice.
  
 ______________________________________________________________________________________________________________________________________________________________
 Not Blocked Sites
