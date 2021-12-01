@@ -1,6 +1,6 @@
-## Secret Websites!
+## Not Blocked Websites!
 _____________________________________________________
-This site is for secret, not blocked websites I found.
+This site is for not blocked websites I found.
  
  
 Theses sites were pretty hard to find and get, so don't get these blocked.
@@ -13,6 +13,7 @@ ________________________________________________________________________________
 Not Blocked Sites
 
 - [Snonisroom](https://www.snonisroom.xyz/)
+- [Sans Fight](https://snoni.github.io/c2-sans-fight/index.html)
  
  
  
